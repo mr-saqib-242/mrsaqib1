@@ -16,13 +16,13 @@
 <div align="center">
   
   <!-- Socials & Links -->
-  <a href="https://mrsaqib.vercel.app">
+  <a href="https://mrsaqib.me">
     <img src="https://img.shields.io/badge/LIVE_SITE-mrsaqib.vercel.app-00f2ea?style=for-the-badge&logo=vercel&logoColor=black" alt="Website" />
   </a>
   <a href="https://wa.me/923478936242">
     <img src="https://img.shields.io/badge/WHATSAPP-Chat_Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
-  <a href="https://github.com/techai342">
+  <a href="https://github.com/mr-saqib-242">
     <img src="https://img.shields.io/badge/GITHUB-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="mailto:mrsaqib242242@gmail.com">
